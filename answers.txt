@@ -10,3 +10,7 @@ Answer: it can be applied to the medical field because it can be used to analyze
 Q3: What is the difference between merging and rebasing?
 
 Answer: Merging combines the histories of two branches into one, while rebasing rewrites the commit history by adding changes from one branch on another one
+
+Q4: What skills do you hope to improve during this course?
+
+Answer: I hope to improve my data analytics skills in terms of real-world applications and also hope to learn new methods of creating significant data reports.
