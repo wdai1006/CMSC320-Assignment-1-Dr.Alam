@@ -6,3 +6,7 @@ Answer: Good for seeing previous changes and commits and able to easily revert c
 Q2: What field could data science be applied to? Give and Example and how it might help
 
 Answer: it can be applied to the medical field because it can be used to analyze patient data in hospitals.
+
+Q3: What is the difference between merging and rebasing?
+
+Answer: Merging combines the histories of two branches into one, while rebasing rewrites the commit history by adding changes from one branch on another one
